@@ -181,7 +181,9 @@ public class l001{
         return myAns;
     }
 
-    
+    //Q.10 Rat in a maze  (GFG)
+
+    //Q.11 Special matrix  (GFG)
 
 
     public static void main(String[] args){
